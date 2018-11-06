@@ -1,0 +1,14 @@
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+F:\Downloads\Shared\Angular_asp\sampleSite\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
